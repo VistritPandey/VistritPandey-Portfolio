@@ -18,9 +18,9 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
+        "name": "twitter",
+        "url": "https://twitter.com/vistritpandey?lang=en",
+        "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
@@ -43,10 +43,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Drexel University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "2019 -- Present",
+        "description": "expected graduation in 2023"
       }
     ],
     "work": [
