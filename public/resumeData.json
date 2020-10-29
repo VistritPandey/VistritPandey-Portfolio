@@ -2,7 +2,7 @@
   "main": {
     "name": "Vistrit Pandey",
     "occupation": "Computer Science student at Drexel University",
-    "description": "",
+    "description": "Pursuing Front-end developer, with keen interest in gaming",
     "image": "",
     "bio": "My name is Vistrit, I'm a pursuing Full Stack Developer. Currently I'm a Sophomore at Drexel University ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -24,17 +24,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/vistrit-pandey-32b2551a2/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/iamvistrit/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/VistritPandey",
         "className": "fa fa-github"
       }
     ]
@@ -66,26 +66,26 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
       },
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "69%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "CSS",
         "level": "80%"
       }
     ]
