@@ -14,7 +14,7 @@
       "state": "Pennsylvania",
       "zip": "19104"
     },
-    "website": "http://www.vistritpandey.me",
+    "website": "https://www.vistrit-pandey.web.app",
     "resumedownload": "",
     "social": [
       {
@@ -107,85 +107,85 @@
       {
         "title": "Facebook Clone",
         "category": "Facebook Clone built with ReactJS, Firebase and Material UI.",
-        "image": "facebook-clone.png",
+        "image": "facebook.png",
         "url": "https://vistrit-facebook-clone.web.app/"
       },
       {
         "title": "Amazon Clone",
         "category": "Amazon Clone built with ReactJS, Firebase and Material UI",
-        "image": "airbnb-clone.jpeg",
+        "image": "amazon.png",
         "url": "https://vistrit-amaz0n.web.app/"
       },
       {
         "title": "Google Clone",
         "category": "Google Clone built with ReactJS, Firebase and Material UI.",
-        "image": "whatsapp-mern.jpeg",
+        "image": "google.png",
         "url": "https://vistrit-goo.web.app/"
       },
       {
         "title": "Spotify Clone",
         "category": "Spotify Clone built with ReactJS, Firebase and Material UI.",
-        "image": "tiktok-mern.jpeg",
+        "image": "spotify.png",
         "url": "https://vistrit-spotify.web.app/"
       },
       {
         "title": "Twitter Clone",
         "category": "Twitter Clone built with ReactJS, Firebase and Material UI.",
-        "image": "facebook-clone.png",
+        "image": "twitter.png",
         "url": "https://vistrit-twitter.web.app/"
       },
       {
         "title": "Discord Clone",
         "category": "Discord Clone built with ReactJS, Redux, Firebase and Material UI",
-        "image": "netflix-clone.jpeg",
+        "image": "discord.png",
         "url": "https://vistrit-chat.web.app/"
       },
       {
         "title": "Airbnb Clone",
         "category": "Airbnb Clone built with ReactJS, Firebase and Material UI",
-        "image": "airbnb-clone.jpeg",
+        "image": "airbnb.png",
         "url": "https://vistrit-airbnb.web.app/"
       },
       {
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS, Firebase, TMDB API and Material UI",
-        "image": "netflix-clone.jpeg",
+        "image": "netflix.png",
         "url": "https://vistrit-netflix.web.app/"
       },
       {
         "title": "Corona Tracker",
         "category": "Corona Tracker built with ReactJS, Firebase and Material UI.",
-        "image": "whatsapp-mern.jpeg",
+        "image": "corona.png",
         "url": "https://rip-covid-tracker.web.app/"
       },
       {
         "title": "Robinhood Clone",
         "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
-        "image": "tiktok-mern.jpeg",
+        "image": "robinhood.png",
         "url": "https://vistrit-robinhood.web.app/"
       },
       {
         "title": "Zoom Clone",
         "category": "Zoom Clone built with Node.js, Heroku and Socket.io .",
-        "image": "facebook-clone.png",
+        "image": "zoom.png",
         "url": "https://aqueous-plains-97236.herokuapp.com/"
       },
       {
         "title": "Chat App using React Native",
         "category": "Chat App built with React Native and Firebase",
-        "image": "airbnb-clone.jpeg",
+        "image": "chat.png",
         "url": "https://expo.io/@vistrit/projects/vistrit-chat-app"
       },
       {
         "title": "Social App",
         "category": "Social App built with React Native and Firebase",
-        "image": "netflix-clone.jpeg",
+        "image": "social.png",
         "url": "https://expo.io/@vistrit/projects/social"
       },
       {
         "title": "Youtube Clone",
         "category": "Youtube Clone built with ReactJS, Firebase and Material UI",
-        "image": "netflix-clone.jpeg",
+        "image": "youtube.png",
         "url": "https://vistrit-utube.web.app/"
       }
     ]
