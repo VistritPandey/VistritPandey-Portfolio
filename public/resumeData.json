@@ -15,7 +15,7 @@
       "zip": "19104"
     },
     "website": "http://www.vistritpandey.me",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "",
     "social": [
       {
         "name": "twitter",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/vistrit-pandey-32b2551a2/",
+        "url": "https://www.linkedin.com/in/vistrit",
         "className": "fa fa-linkedin"
       },
       {
@@ -96,91 +96,97 @@
         "title": "WhatsApp Clone",
         "category": "WhatsApp Clone built with ReactJS, Firebase and Material UI.",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "https://vistrit-whatsapp.web.app"
       },
       {
         "title": "Instagram Clone",
         "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://vistrit-insta.web.app/"
       },
       {
         "title": "Facebook Clone",
         "category": "Facebook Clone built with ReactJS, Firebase and Material UI.",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "https://vistrit-facebook-clone.web.app/"
       },
       {
         "title": "Amazon Clone",
         "category": "Amazon Clone built with ReactJS, Firebase and Material UI",
         "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Youtube Clone",
-        "category": "Youtube Clone built with ReactJS, Firebase and Material UI",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://vistrit-amaz0n.web.app/"
       },
       {
         "title": "Google Clone",
         "category": "Google Clone built with ReactJS, Firebase and Material UI.",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "https://vistrit-goo.web.app/"
       },
       {
         "title": "Spotify Clone",
         "category": "Spotify Clone built with ReactJS, Firebase and Material UI.",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://vistrit-spotify.web.app/"
       },
       {
         "title": "Twitter Clone",
         "category": "Twitter Clone built with ReactJS, Firebase and Material UI.",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "https://vistrit-twitter.web.app/"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "Discord Clone built with ReactJS, Redux, Firebase and Material UI",
+        "image": "netflix-clone.jpeg",
+        "url": "https://vistrit-chat.web.app/"
       },
       {
         "title": "Airbnb Clone",
         "category": "Airbnb Clone built with ReactJS, Firebase and Material UI",
         "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "url": "https://vistrit-airbnb.web.app/"
       },
       {
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS, Firebase, TMDB API and Material UI",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://vistrit-netflix.web.app/"
       },
       {
         "title": "Corona Tracker",
         "category": "Corona Tracker built with ReactJS, Firebase and Material UI.",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "https://rip-covid-tracker.web.app/"
       },
       {
         "title": "Robinhood Clone",
         "category": "Instagram Clone built with ReactJS, Firebase and Material UI.",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://vistrit-robinhood.web.app/"
       },
       {
         "title": "Zoom Clone",
         "category": "Zoom Clone built with Node.js, Heroku and Socket.io .",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "https://aqueous-plains-97236.herokuapp.com/"
       },
       {
         "title": "Chat App using React Native",
         "category": "Chat App built with React Native and Firebase",
         "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "url": "https://expo.io/@vistrit/projects/vistrit-chat-app"
       },
       {
         "title": "Social App",
         "category": "Social App built with React Native and Firebase",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://expo.io/@vistrit/projects/social"
+      },
+      {
+        "title": "Youtube Clone",
+        "category": "Youtube Clone built with ReactJS, Firebase and Material UI",
+        "image": "netflix-clone.jpeg",
+        "url": "https://vistrit-utube.web.app/"
       }
     ]
   }
