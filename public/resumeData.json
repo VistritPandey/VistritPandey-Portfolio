@@ -2,10 +2,10 @@
   "main": {
     "name": "Vistrit Pandey",
     "occupation": "Computer Science student at Drexel University",
-    "description": "Pursuing Front-end developer, with keen interest in gaming",
+    "description": "Pursuing Front-end developer, with keen interest in app developement",
     "image": "my pic.jpg",
-    "bio": "My name is Vistrit, I'm a pursuing Full Stack Developer. Currently I'm a Sophomore at Drexel University ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "My name is Vistrit, I'm a pursuing Full Stack Web & App Developer. Currently I'm a Sophomore at Drexel University ",
+    "contactmessage": "Get in touch with me to know more about me",
     "email": "vp453@drexel.edu",
     "phone": "+1 267 721 0609",
     "address": {
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Drexel University",
@@ -51,22 +51,22 @@
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "My Sports Album",
+        "title": "Senior App Developer(StartUp)",
+        "years": "Novembver 2020 - Present",
+        "description": "Building an App for the company that will have a collection of Sports Cards and Card trading"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Veecon India",
+        "title": "IT Manager(Internship)",
+        "years": "June 2020 - October 2020",
+        "description": "Worked here as an IT Manager and managed their IT and website."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "Java",
@@ -81,31 +81,31 @@
         "level": "69%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "React Native",
+        "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "80%"
+        "name": "Firebase",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
+        "title": "WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
-        "title": "MERN Stack TikTok Clone",
+        "title": "Instagram Clone",
         "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "tiktok-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
       {
-        "title": "Facebook Clone with React",
+        "title": "Facebook Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
         "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
@@ -123,17 +123,6 @@
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
     ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
-    ]
   }
+  
 }
